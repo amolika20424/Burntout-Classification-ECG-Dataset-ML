@@ -1,1 +1,1 @@
-# Burntout-Classification-ECG-Dataset-ML
+# Burnt-Out-Identification-Using-ECG-Dataset-ML
